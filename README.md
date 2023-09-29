@@ -7,18 +7,18 @@ A University based community building app cum website that enables students on c
 ## Project Structure
 
 my_flutter_app/
--**android/**:       Native Android code and configuration
--**ios/**:           Native iOS code and configuration
--**lib/**:           Dart code for the application
--**main.dart**:   Entry point of the Flutter app
--**test/**:           Unit and widget tests
--**assets/**:         Static assets like images, fonts, and JSON files
--**build/**:         Build artifacts (automatically generated)
--**doc/**:            Documentation (if any)
--**web/**:           Web-specific code and assets (if applicable)
--**.gitignore**:    Git ignore file for specifying ignored files and directories
--**pubspec.yaml**:   Flutter project configuration
--**README.md**:      Project-specific documentation (this file)
+-**android/**:       Native Android code and configuration<br />
+-**ios/**:           Native iOS code and configuration<br />
+-**lib/**:           Dart code for the application<br />
+-**main.dart**:   Entry point of the Flutter app<br />
+-**test/**:           Unit and widget tests<br />
+-**assets/**:         Static assets like images, fonts, and JSON files<br />
+-**build/**:         Build artifacts (automatically generated)<br />
+-**doc/**:            Documentation (if any)<br />
+-**web/**:           Web-specific code and assets (if applicable)<br />
+-**.gitignore**:    Git ignore file for specifying ignored files and directories<br />
+-**pubspec.yaml**:   Flutter project configuration<br />
+-**README.md**:      Project-specific documentation (this file)<br />
 
 
 <hr>
