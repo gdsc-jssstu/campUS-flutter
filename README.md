@@ -47,7 +47,7 @@ The tech stack used here is:
    cd campUS-web
    `
    
-- **Install project dependencies** using npm (Flutter Package Manager): `flutter pub get`
+- **Install project dependencies** using (Flutter Package Manager): `flutter pub get`
 
 - **Create a new branch** for your contribution. Replace *'feature/your-feature-name'* with a descriptive branch name related to your contribution:
 
