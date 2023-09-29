@@ -7,18 +7,18 @@ A University based community building app cum website that enables students on c
 ## Project Structure
 
 my_flutter_app/
-|-- android/       # Native Android code and configuration
-|-- ios/           # Native iOS code and configuration
-|-- lib/           # Dart code for the application
-|   |-- main.dart  # Entry point of the Flutter app
-|-- test/          # Unit and widget tests
-|-- assets/        # Static assets like images, fonts, and JSON files
-|-- build/         # Build artifacts (automatically generated)
-|-- doc/           # Documentation (if any)
-|-- web/           # Web-specific code and assets (if applicable)
-|-- .gitignore     # Git ignore file for specifying ignored files and directories
-|-- pubspec.yaml   # Flutter project configuration
-|-- README.md      # Project-specific documentation (this file)
+**android/**       # Native Android code and configuration
+**ios/**           # Native iOS code and configuration
+**lib/**           # Dart code for the application
+**main.dart**  # Entry point of the Flutter app
+**test/**          # Unit and widget tests
+**assets/**        # Static assets like images, fonts, and JSON files
+**build/**         # Build artifacts (automatically generated)
+**doc/**           # Documentation (if any)
+**web/**          # Web-specific code and assets (if applicable)
+**.gitignore**    # Git ignore file for specifying ignored files and directories
+**pubspec.yaml**   # Flutter project configuration
+**README.md**      # Project-specific documentation (this file)
 
 
 <hr>
@@ -47,7 +47,7 @@ The tech stack used here is:
    cd campUS-web
    `
    
-- **Install project dependencies** using npm (Node Package Manager): `npm install`
+- **Install project dependencies** using npm (Node Package Manager): `flutter pub get`
 
 - **Create a new branch** for your contribution. Replace *'feature/your-feature-name'* with a descriptive branch name related to your contribution:
 
@@ -85,13 +85,13 @@ Once your PR is approved, it will be merged into the main repository.
 ## Final version of the project
 
 <!--- Place the link to the Figma file inside () --->
-Click [here](https://www.figma.com/proto/MfbtIqwt0fjPtmWOuQ7yCQ/CampUs?type=design&node-id=12-364&t=9JuB3TEFpHrqwBXt-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=12%3A364) for the UI design and prototype of the project.
+Click [here](https://www.figma.com) for the UI design and prototype of the project.
 
 <hr>
 
 ## Intended final project:
 
-A responsive and aesthetically designed university-community building website called campUS(Web version).
+A responsive and aesthetically designed university-community building website called campUS(Flutter version).
 
  <hr>
 
