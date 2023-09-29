@@ -6,7 +6,7 @@ A University based community building app cum website that enables students on c
 
 ## Project Structure
 
-**my_flutter_app/**
+**my_flutter_app/**<br/>
   -**android/**:       Native Android code and configuration<br />
   -**ios/**:           Native iOS code and configuration<br />
   -**lib/**:           Dart code for the application<br />
