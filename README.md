@@ -6,19 +6,20 @@ A University based community building app cum website that enables students on c
 
 ## Project Structure
 
-Here's an overview of the project structure:
+my_flutter_app/
+|-- android/       # Native Android code and configuration
+|-- ios/           # Native iOS code and configuration
+|-- lib/           # Dart code for the application
+|   |-- main.dart  # Entry point of the Flutter app
+|-- test/          # Unit and widget tests
+|-- assets/        # Static assets like images, fonts, and JSON files
+|-- build/         # Build artifacts (automatically generated)
+|-- doc/           # Documentation (if any)
+|-- web/           # Web-specific code and assets (if applicable)
+|-- .gitignore     # Git ignore file for specifying ignored files and directories
+|-- pubspec.yaml   # Flutter project configuration
+|-- README.md      # Project-specific documentation (this file)
 
-- **public**: Contains static assets like HTML files and images.
-- **src**: The main source code directory.
-  - **assets**: Store your project's assets such as images, fonts, and styles.
-  - **components**: React components used throughout the project.
-  - **pages**: Individual page components or route components.
-  - **firebase**: Firebase configuration and related files.
-  - **App.jsx**: The main application component.
-  - **index.js**: Entry point for the application.
-- **.env**: Environment variables for development.
-- **vite.config.js**: Vite configuration file.
-- **package.json**: Project dependencies and scripts.
 
 <hr>
 
@@ -52,8 +53,8 @@ The tech stack used here is:
 
 ### Development
 
-- Make your changes or additions to the codebase. Test your changes to ensure they work as expected. To run the website on your localhost:
-   `npm run dev`
+- Make your changes or additions to the codebase. Test your changes to ensure they work as expected. To run the website on your Emulator
+ 
 
 - Commit your changes with a descriptive commit message:
    `git commit -m "Add your descriptive message here" `
@@ -69,7 +70,7 @@ The tech stack used here is:
 
 - ### Create a Pull Request (PR)
 
-Visit the [campUS-Web](https://github.com/gdsc-jssstu/campUS-Web) repository on GitHub.
+Visit the [campUS-Web](https://github.com/gdsc-jssstu/campUS-flutter) repository on GitHub.
 Click the "Compare & pull request" button next to your recently pushed branch.
 Follow the PR template and guidelines. Provide details about your changes.
 Submit the PR.
@@ -102,6 +103,5 @@ If you have any questions or need further assistance, please don't hesitate to r
 <hr>
 
 ## Maintainers
-1) [Syed Hisham Akmal](https://github.com/sikehish)
 1) [Sanjay M](https://github.com/sanjay14073)
 
