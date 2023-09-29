@@ -44,7 +44,7 @@ The tech stack used here is:
 
    `
    git clone https://github.com/your-username/campUS-Web.git
-   cd campUS-web
+   
    `
    
 - **Install project dependencies** using (Flutter Package Manager): `flutter pub get`
