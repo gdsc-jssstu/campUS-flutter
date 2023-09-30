@@ -85,7 +85,7 @@ Once your PR is approved, it will be merged into the main repository.
 ## Final version of the project
 
 <!--- Place the link to the Figma file inside () --->
-Click [here](https://www.figma.com) for the UI design and prototype of the project.
+Click [here](https://www.figma.com/proto/fg2pUtJ4oJmUfScwGD7oRo/CampusUs-Mobile-version?page-id=0%3A1&type=design&node-id=2-1718&viewport=646%2C313%2C0.12&t=tqwzJk8lSFjigPaY-1&scaling=scale-down&starting-point-node-id=2%3A1718&mode=design) for the UI design and prototype of the project.
 
 <hr>
 
