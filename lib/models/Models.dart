@@ -1,14 +1,16 @@
 class User {
-  final String name;
-  final int year;
-  final String contactNumber;
+  late String name;
+  late int year;
+  late String contactNumber;
 
+  //Constructor
   User({
     required this.name,
     required this.year,
     required this.contactNumber,
   });
 
+  //Deserialization
   factory User.fromJson(Map<String, dynamic> json) {
     return User(
       name: json['name'],
@@ -17,6 +19,7 @@ class User {
     );
   }
 
+  //Serialization
   Map<String, dynamic> toJson() {
     return {
       'name': name,
