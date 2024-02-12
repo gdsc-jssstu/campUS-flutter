@@ -1,3 +1,5 @@
+// ignore_for_file: file_names
+
 class User {
   late String name;
   late int year;
